@@ -122,7 +122,11 @@ How does Scala combine functional and object-oriented programming?
 What are traits? What are case classes and pattern matching? How can
 you interface with Java?
 
-Team: Matthew Swart, Carlos Tome, Renate Eilers, (other people interested)
+Team: 
+* Matthew Swart
+* Carlos Tome
+* Renate Eilers
+* ...
 
 #### Scala and lightweight modular staging
 

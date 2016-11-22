@@ -147,7 +147,7 @@ What is OCaml's module system? How is it different from Haskell's?
 What are signatures and functors? What is the difference between
 generative and applicative functors?
 
-Team:?
+Team:Daan Knoope, Bas van Rooij, Jorrit Dorrestijn, Ivor van der Hoog, Wouter ten Bosch
 
 #### Template programming in C++
 
@@ -161,7 +161,7 @@ Team: Michiel Magendans, Robin Ganpat, Jelmer van Nuss, Hugo Heemskerk, Thomas D
 What is logic programming? How does the Prolog engine find solutions?
 What is cut? And when should it be used?
 
-Team: Roald Neuteboom, Alexey Rodriguez Blanter, Anvar Arashov, Sjoerd de Vries
+Team: Roald Neuteboom, Alexey Rodriguez Blanter, Anvar Arashov, Sjoerd de Vries, Winand Renkema
 
 #### Other (domain specific) languages
 

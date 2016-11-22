@@ -103,7 +103,9 @@ features of the type system?
 
 Team:
 * Martijn Fleuren 
-* ... (Anyone else?)
+* Douwe van Gijn
+* Christian Stuart
+* Nick Begg
 
 #### NetKAT
 

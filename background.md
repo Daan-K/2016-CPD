@@ -24,4 +24,9 @@ see other references listed here!
   -- a paper by Phil Wadler describing the fundamental connection
   between types and logic.
   
+* [The point of lazy evaluation](https://existentialtype.wordpress.com/2011/04/24/the-real-point-of-laziness/)
+  Bob Harper discusses some of the drawbacks of lazy evaluation.
   
+* [More points for lazy evaluation](http://augustss.blogspot.nl/2011/05/more-points-for-lazy-evaluation-in.html)
+  Lennart Augustsson responds to the blogpost above, listing some of
+  the key advantages of lazy evaluation.

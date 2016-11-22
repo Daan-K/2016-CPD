@@ -122,7 +122,7 @@ How does Scala combine functional and object-oriented programming?
 What are traits? What are case classes and pattern matching? How can
 you interface with Java?
 
-Team: Matthew, Carlos, Renate, (other people interested)
+Team: Matthew Swart, Carlos Tome, Renate Eilers, (other people interested)
 
 #### Scala and lightweight modular staging
 
@@ -131,7 +131,11 @@ How is it used for embedding compilers in Scala? What DSLs are
 implemented in this style? How does it compare to other approaches to
 implementing DSLs that we have seen?
 
-Team: Jaspreet Singh, Daniël Stekelenburg, Toby Rufinus, Steven Both
+Team: 
+* Jaspreet Singh
+* Daniël Stekelenburg
+* Toby Rufinus
+* Steven Both
 
 #### Rascal
 
@@ -139,7 +143,12 @@ What is a language designers workbench? How is this approach to domain
 specific languages different from embedded or stand-alone languages?
 What are the relative merits of all these approaches?
 
-Team: Jasper Robeer, Marinus Oosters, Maxwell Hessey, Quiri Passchier, Chiel van Griethuijsen.
+Team: 
+* Jasper Robeer
+* Marinus Oosters
+* Maxwell Hessey
+* Quiri Passchier
+* Chiel van Griethuijsen
 
 #### OCaml
 
@@ -147,21 +156,36 @@ What is OCaml's module system? How is it different from Haskell's?
 What are signatures and functors? What is the difference between
 generative and applicative functors?
 
-Team:Daan Knoope, Bas van Rooij, Jorrit Dorrestijn, Ivor van der Hoog, Wouter ten Bosch
+Team:
+* Daan Knoope
+* Bas van Rooij
+* Jorrit Dorrestijn
+* Ivor van der Hoog
+* Wouter ten Bosch
 
 #### Template programming in C++
 
 What are C++ templates? What are they good for? What are their
 limitations?
 
-Team: Michiel Magendans, Robin Ganpat, Jelmer van Nuss, Hugo Heemskerk, Thomas Dirkse
+Team: 
+* Michiel Magendans
+* Robin Ganpat
+* Jelmer van Nuss
+* Hugo Heemskerk
+* Thomas Dirkse
 
 #### Logic programming in Prolog
 
 What is logic programming? How does the Prolog engine find solutions?
 What is cut? And when should it be used?
 
-Team: Roald Neuteboom, Alexey Rodriguez Blanter, Anvar Arashov, Sjoerd de Vries, Winand Renkema
+Team: 
+* Roald Neuteboom
+* Alexey Rodriguez Blanter
+* Anvar Arashov
+* Sjoerd de Vries
+* Winand Renkema
 
 #### Other (domain specific) languages
 

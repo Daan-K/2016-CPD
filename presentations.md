@@ -69,8 +69,8 @@ cycles, constructors vs. initializers and potentially more.
 
 Team:
 * Glenn Stewart
-* ?
-* ?
+* Teun Kooijman,
+* Jasper van Noordenburg
 
 #### ?????
 
@@ -98,9 +98,9 @@ it compare to existing languages for front-end development such as
 Javascript? What kind of code does Elm generate?
 
 Team:
-* ?
-* ?
-* ?
+* Jesse de Ruijter
+* Enzo Kessel
+* Paolo Servillo
 
 #### Purescript
 

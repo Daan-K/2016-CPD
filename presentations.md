@@ -68,8 +68,13 @@ automatic reference counting, safety in regards to memory leaks or memory
 cycles, constructors vs. initializers and potentially more.
 
 Team:
-* Mattijs van de Kuilen
 * Glenn Stewart
+* ?
+* ?
+
+#### ?????
+
+* Mattijs van de Kuilen
 * Jannes Elings
 * Jan Posthoorn
 * Lars Hartmann
@@ -92,7 +97,10 @@ What kind of language is Elm? What is the Elm architecture? How does
 it compare to existing languages for front-end development such as
 Javascript? What kind of code does Elm generate?
 
-Team:?
+Team:
+* ?
+* ?
+* ?
 
 #### Purescript
 
@@ -107,15 +115,6 @@ Team:
 * Christian Stuart
 * Nick Begg
 
-#### NetKAT
-
-What are programmable networks? How can programming languages and
-semantics be applied in this domain? What is a Kleene algebra? What is
-the semantics of this language? And what properties can we prove about
-its equational theory?
-
-Team:?
-
 #### Scala
 
 How does Scala combine functional and object-oriented programming?
@@ -126,7 +125,7 @@ Team:
 * Matthew Swart
 * Carlos Tome
 * Renate Eilers
-* ...
+
 
 #### Scala and lightweight modular staging
 
@@ -141,24 +140,22 @@ Team:
 * Toby Rufinus
 * Steven Both
 
-#### Rascal
-
-What is a language designers workbench? How is this approach to domain
-specific languages different from embedded or stand-alone languages?
-What are the relative merits of all these approaches?
-
-Team: 
-* Jasper Robeer
-* Marinus Oosters
-* Maxwell Hessey
-* Quiri Passchier
-* Chiel van Griethuijsen
-
-#### OCaml
+#### OCaml - modules
 
 What is OCaml's module system? How is it different from Haskell's?
 What are signatures and functors? What is the difference between
 generative and applicative functors?
+
+* Jasper Robeer
+* Marinus Oosters
+* Maxwell Hessey
+* Quiri Passchier
+* Chiel van Griethuijsen.
+
+#### OCaml - low-level
+
+How are data structures represented in memory? How is the interface
+with C managed? What are boxed and unbox
 
 Team:
 * Daan Knoope
@@ -190,6 +187,14 @@ Team:
 * Anvar Arashov
 * Sjoerd de Vries
 * Winand Renkema
+
+#### Rascal
+
+What is a language designers workbench? How is this approach to domain
+specific languages different from embedded or stand-alone languages?
+What are the relative merits of all these approaches?
+
+Team: ???
 
 #### Other (domain specific) languages
 
